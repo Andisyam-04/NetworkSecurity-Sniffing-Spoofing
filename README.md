@@ -7,7 +7,7 @@ Repository ini berisi laporan dan dokumentasi praktikum mata kuliah Advanced Net
 | Informasi | Detail |
 | :--- | :--- |
 | Nama | Andi Syam Hasbullah (Server) |
-| NIM | 105841114223 |
+| NIM | 105841114623 |
 | Kelas | 5 JK-A |
 | Peran | Client (Target 2) |
 | Anggota Tim | Rizky Adhitya (Attacker), Eko Prasetyo Adi Nugroho (Client) |
